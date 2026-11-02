@@ -1,1 +1,1 @@
-# AI
+# AI Practicals Code
